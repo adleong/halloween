@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Virtual Halloween 2020
 
-You can use the [editor on GitHub](https://github.com/adleong/halloween/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Saturday October 31, 5:00pm - 7:00pm PST
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How does trick-or-treating work during a global pandemic?  I'm glad you asked!
 
-### Markdown
+Anyone who wants to host a "house" will create a Zoom meeting and will be given
+a secret code word.  Kids will visit the "houses" (Zoom meetings) and ask for
+that house's code word.  They will exchange code words for treats from their
+parent/caregiver.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [I want to host a house](host)
 
-```markdown
-Syntax highlighted code block
+### [I want to trick-or-treat](trickortreat)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adleong/halloween/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Take me to the map](map)
