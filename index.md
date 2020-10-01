@@ -1,6 +1,4 @@
-## Virtual Halloween 2020
-
-### Saturday October 31, 5:00pm - 7:00pm PST
+### Saturday October 31, 5:00pm - 6:30pm PST
 
 How does trick-or-treating work during a global pandemic?  I'm glad you asked!
 
