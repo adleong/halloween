@@ -24,7 +24,7 @@ After you register you will get an email with these instructions.
 On the day of Halloween I will email you a list of code words.  Keep this list
 secret from the kids but have it handy during Halloween night.
 
-Any time from 5:00pm-7:00pm PST you can trick-or-treat by visiting [the map](map).
+Any time from 5:00pm-6:30pm PST you can trick-or-treat by visiting [the map](map).
 The map is a page with a list of houses.  Clicking on a house will join a Zoom
 meeting with whoever is hosting that house.
 
